@@ -1,0 +1,6 @@
+title,description
+First Article,This is the first dummy article.
+Second Article,This is the second dummy article.
+Getting Started,A quick guide to get started with the app.
+Tips and Tricks,Some useful tips for daily use.
+Welcome,Welcome to the Flask app with SQLAlchemy and MySQL.
